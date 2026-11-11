@@ -1,4 +1,4 @@
-"""Author: Onaivi Collins Dania | o.dania5318@miva.edu.ng | Student ID 301855318
+"""Author: Chigbue Philip | p.chigbue9502@miva.edu.ng | Student ID 301859502
 
 MIT 8339 - Business Intelligence and Decision Support Systems (Virtual Lab)
 Script 2 of 2: Exploratory analysis, KPI development and risk-score validation (Task 3)
